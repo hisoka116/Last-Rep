@@ -534,7 +534,7 @@ header .container i:hover {
 .subscribtions .holder .box .label::before {
     content: "";
     position: absolute;
-    bottom: -0.3px;
+    bottom: -1px;
     right: 0;
     border-style: solid;
     border-color: transparent transparent var(--accent-color2);
